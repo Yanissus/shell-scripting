@@ -1,0 +1,2 @@
+Plutôt difficile, On a cherché sur internet et on a trouver qu'il fallait mettre if pour dire si c'est un fichier ou un dossier pour ensuite mettre le même ls -lS -l que dans l'exercise précédent sinon(else) le srcipt affiche un message d'erreur et retourne un code d'exit 2.
+
