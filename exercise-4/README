@@ -1,0 +1,5 @@
+On a eu de la difficulté dans cette exercise surtout dans la partie "if".
+Il a fallu comprendre comment coder l'erreur s'il y a plus de 2 arguments.
+On a fini par trouver que "-ne" voulait dire not equal et que le $#-ne2 signifiait que le nombre d'élément  n'était pas égale à 2 (Donc plus qu'un nom et prénom)
+Le reste du sript était plus facile en suivant les explications.
+
