@@ -1,0 +1,3 @@
+On a juste du chercher comment trier les fichiers dans l'ordre demandé et on a repris le -l de l'exercise précédent.
+-l est pour le format liste-long
+-lS pour afficher d'abord les fichiers les plus gros et les dossiers
