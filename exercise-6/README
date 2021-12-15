@@ -1,0 +1,3 @@
+Pour l'exercise-6 on a chercher un moyen plus rapide pour créer un directory et d'en créer à l'untérirur, "-p" faisait parfaitement l'affaire mais il nous fallait un moyen de créer rapidement des fichiers et après plus de recherche on a trouve que "-a" faisait la même chose avec "touch.
+mkdir -p pour créer les répertoires parents
+touch -a modifie uniquement la date sur plusieurs fichiers
